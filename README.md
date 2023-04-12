@@ -7,6 +7,9 @@ Data; understanding data driven software and presenting data and also as a way t
 In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find examples of dashboards
 and reports I have created using various tools such as Power BI, R, Tableau, and Excel.
 
+My contact etails: 
+email: k_lm@hotmail.co.uk   Linkein: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 PROJECTS
 
 cyclistic bike-share analysis
