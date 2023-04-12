@@ -14,6 +14,9 @@ Linkein:  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size
 PROJECTS
 
 cyclistic bike-share analysis
+Scenario
+I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+
 work sheets and interactive dash board: Pivot Tables, Pivot Chart, Slicers
 https://docs.google.com/spreadsheets/d/1rPkNooCYgjNCG5SIxDTqjpmRF97pREzO/edit?usp=share_link&ouid=105151329852686366230&rtpof=true&sd=true
 
