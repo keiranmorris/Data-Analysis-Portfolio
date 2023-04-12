@@ -9,8 +9,15 @@ and reports I have created using various tools such as Power BI, R, Tableau, and
 
 PROJECTS
 
+cyclistic bike-share analysis
+work sheets and interactive dash board: Pivot Tables, Pivot Chart, Slicers
+https://docs.google.com/spreadsheets/d/1rPkNooCYgjNCG5SIxDTqjpmRF97pREzO/edit?usp=share_link&ouid=105151329852686366230&rtpof=true&sd=true
+
+![image](https://user-images.githubusercontent.com/126327137/231563205-d3a2e4c6-9aa5-489d-959e-6f3eb17ee269.png)
+
+
 
 Power point presentation:
-Shows findings from data analysis and addresses the stake holders objective of converting more casual into annual members 
+Shows findings from data analysis and addresses the stake holders objective of converting more casual into annual members: power point, presentation
 https://github.com/keiranmorris/Data-Analysis-Portfolio/blob/main/Cyclistic%20bike-share%20analysis%20case%20study.pptx
 
