@@ -8,6 +8,8 @@ In this portfolio, I have included a variety of projects that showcase my data a
 and reports I have created using various tools such as Power BI, R, Tableau, and Excel.
 
 My CV: https://github.com/keiranmorris/Data-Analysis-Portfolio/blob/main/Keiran%20Morris%20CV.pdf
+
+
 email: k_lm@hotmail.co.uk   
 Linkedin:  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="keiran-morris-55698b29" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/keiran-morris-55698b29?trk=profile-badge">keiran morris</a></div>
               
