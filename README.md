@@ -21,3 +21,4 @@ Power point presentation:
 Shows findings from data analysis and addresses the stake holders objective of converting more casual into annual members: power point, presentation
 https://github.com/keiranmorris/Data-Analysis-Portfolio/blob/main/Cyclistic%20bike-share%20analysis%20case%20study.pptx
 
+![image](https://user-images.githubusercontent.com/126327137/231563669-9d2fd8b4-f6e8-4ada-91ab-85d2223a4e92.png)
